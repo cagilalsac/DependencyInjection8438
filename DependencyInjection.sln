@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIdemo", "DIdemo\DIdemo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIdemo1", "DIdemo1\DIdemo1.csproj", "{F76CC6D6-905C-4638-8D7F-C04BEE436E25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciApp", "OgrenciApp\OgrenciApp.csproj", "{5373727C-851D-4BAC-AAD9-9DA3EAA2E80E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F76CC6D6-905C-4638-8D7F-C04BEE436E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F76CC6D6-905C-4638-8D7F-C04BEE436E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F76CC6D6-905C-4638-8D7F-C04BEE436E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5373727C-851D-4BAC-AAD9-9DA3EAA2E80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5373727C-851D-4BAC-AAD9-9DA3EAA2E80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5373727C-851D-4BAC-AAD9-9DA3EAA2E80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5373727C-851D-4BAC-AAD9-9DA3EAA2E80E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
